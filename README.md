@@ -4,9 +4,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/batikanakdeniz/) · batikanakdeniz@hotmail.com
 
----
-
-## What I work with
+<details>
+<summary><b>What I work with</b></summary>
 
 **Languages**
 
@@ -20,7 +19,7 @@ Python · C# · Java · JavaScript · TypeScript
 
 [![](https://skillicons.dev/icons?i=py,fastapi,ts)](https://skillicons.dev)
 
-MCP · Ollama · Groq · Function calling · FastAPI · Jupyter
+Python · FastAPI · TypeScript · MCP · Ollama · Groq · Function calling · Jupyter
 
 ---
 
@@ -54,9 +53,10 @@ React · Vue 3 · Vite · Tailwind CSS · TanStack Query · Zod
 
 pytest · JUnit 5 · Selenium · k6 · Postman · Jira · Scrum · Conventional Commits
 
----
+</details>
 
-## Projects
+<details>
+<summary><b>Projects</b></summary>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -69,8 +69,4 @@ pytest · JUnit 5 · Selenium · k6 · Postman · Jira · Scrum · Conventional 
 | **[Akakçe Test Automation](https://github.com/batikanakdenizz/Akakce-Test-Automation)** | 42 JUnit 5 tests driving a live e-commerce site: login, typo-tolerant search, price and brand filters, watchlist, sort order | Java · Selenium · JUnit 5 |
 | **[Weather MCP Server](https://github.com/batikanakdenizz/getWeather-MCPServer)** | Model Context Protocol server on the official TypeScript SDK, with Zod-validated tool schemas over stdio | TypeScript · MCP SDK |
 
----
-
-## Reach me
-
-[LinkedIn](https://www.linkedin.com/in/batikanakdeniz/) · batikanakdeniz@hotmail.com
+</details>
