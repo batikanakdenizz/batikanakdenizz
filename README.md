@@ -147,7 +147,7 @@ Python · C# · Java · JavaScript · TypeScript
 <summary><b>AI &amp; agents</b></summary>
 <br>
 
-[![](https://skillicons.dev/icons?i=py,fastapi,ts)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,fastapi,ts,streamlit)](https://skillicons.dev)
 
 Python · FastAPI · TypeScript · MCP · Ollama · Groq · Function calling · Jupyter
 Python · FastAPI · TypeScript · MCP · Ollama · Groq · Foundry Local · RAG · Embeddings · Function calling · Jupyter
