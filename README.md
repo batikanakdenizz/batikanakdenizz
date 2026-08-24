@@ -159,7 +159,7 @@ Python · FastAPI · TypeScript · MCP · Ollama · Groq · Foundry Local · RAG
 
 [![](https://skillicons.dev/icons?i=fastapi,flask,spring,dotnet,postgres,mysql,sqlite,mongodb,redis,rabbitmq)](https://skillicons.dev)
 
-FastAPI · Flask · Spring Boot · .NET 8 · PostgreSQL · MySQL · SQLite · MongoDB · Redis · RabbitMQ · SQLAlchemy · Alembic · Swagger / OpenAPI
+FastAPI · Flask · Spring Boot · .NET 8 · PostgreSQL · MySQL · SQLite · MongoDB · Redis · RabbitMQ · SQLAlchemy · Alembic · NumPy · Swagger / OpenAPI
 
 </details>
 <details>
