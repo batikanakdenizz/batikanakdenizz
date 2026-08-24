@@ -176,7 +176,7 @@ Azure · Docker · GitHub Actions · Nginx · Linux · Bash · Firebase · Supab
 
 [![](https://skillicons.dev/icons?i=react,vue,vite,tailwind)](https://skillicons.dev)
 
-React · Vue 3 · Vite · Tailwind CSS · TanStack Query · Zod
+React · Vue 3 · Vite · Streamlit · Tailwind CSS · TanStack Query · Zod
 
 </details>
 <details>
