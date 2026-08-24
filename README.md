@@ -34,7 +34,7 @@ Built as part of a Microsoft summer internship program.
 
 `Python` `Microsoft Foundry Local` `Streamlit` `SQLite` `RAG` `Embeddings` `pytest`
 
-[Repository](https://github.com/batikanakdenizz/rag-concepts-explainer)
+[Repository](https://github.com/batikanakdenizz/rag-concepts-explainer) · [Evaluation report](https://github.com/batikanakdenizz/rag-concepts-explainer/blob/main/EVALUATION.md)
 
 </details>
 <details>
