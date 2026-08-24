@@ -149,6 +149,7 @@ Python · C# · Java · JavaScript · TypeScript
 
 [![](https://skillicons.dev/icons?i=py,fastapi,ts)](https://skillicons.dev)
 
+Python · FastAPI · TypeScript · MCP · Ollama · Groq · Function calling · Jupyter
 Python · FastAPI · TypeScript · MCP · Ollama · Groq · Foundry Local · RAG · Embeddings · Function calling · Jupyter
 
 </details>
@@ -174,8 +175,9 @@ Azure · Docker · GitHub Actions · Nginx · Linux · Bash · Firebase · Supab
 <summary><b>Frontend</b></summary>
 <br>
 
-[![](https://skillicons.dev/icons?i=react,vue,vite,tailwind)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,vue,vite,tailwind,streamlit)](https://skillicons.dev)
 
+React · Vue 3 · Vite · Tailwind CSS · TanStack Query · Zod
 React · Vue 3 · Vite · Streamlit · Tailwind CSS · TanStack Query · Zod
 
 </details>
