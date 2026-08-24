@@ -149,7 +149,7 @@ Python · C# · Java · JavaScript · TypeScript
 
 [![](https://skillicons.dev/icons?i=py,fastapi,ts)](https://skillicons.dev)
 
-Python · FastAPI · TypeScript · MCP · Ollama · Groq · Function calling · Jupyter
+Python · FastAPI · TypeScript · MCP · Ollama · Groq · Foundry Local · RAG · Embeddings · Function calling · Jupyter
 
 </details>
 <details>
