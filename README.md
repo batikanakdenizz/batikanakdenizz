@@ -185,7 +185,7 @@ React · Vue 3 · Vite · Streamlit · Tailwind CSS · TanStack Query · Zod
 <summary><b>Testing &amp; ways of working</b></summary>
 <br>
 
-[![](https://skillicons.dev/icons?i=selenium,postman,maven,git)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=selenium,postman,maven,git,vitest)](https://skillicons.dev)
 
 pytest · JUnit 5 · Vitest · Selenium · k6 · Postman · Jira · Scrum · Conventional Commits
 
