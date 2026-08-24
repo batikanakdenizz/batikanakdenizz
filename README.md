@@ -21,6 +21,23 @@ the date range and publish to RabbitMQ only after the commit.
 
 </details>
 <details>
+<summary><b>RAG Concepts Explainer</b> — Offline RAG chatbot on Foundry Local</summary>
+<br>
+
+A local, offline document Q&A assistant that teaches beginners how RAG and on-device AI work —
+using the RAG pattern itself to explain it. Retrieves grounded passages from a curated knowledge
+base, embeds queries with `qwen3-embedding-0.6b`, ranks by cosine similarity, and streams answers
+from `qwen2.5-0.5b` — entirely on-device with zero network calls at inference time. CLI and
+Streamlit UI, with a similarity-threshold refusal gate and a recorded evaluation suite.
+
+Built as part of a Microsoft summer internship program.
+
+`Python` `Microsoft Foundry Local` `Streamlit` `SQLite` `RAG` `Embeddings` `pytest`
+
+[Repository](https://github.com/batikanakdenizz/rag-concepts-explainer)
+
+</details>
+<details>
 <summary><b>AI Flight Agent</b> — Conversational booking over MCP</summary>
 <br>
 
